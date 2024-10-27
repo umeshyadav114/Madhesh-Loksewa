@@ -2118,13 +2118,13 @@ p {
     margin: 0px;
 }
 .wrapper{
-    height: 65vh;
+    height: vh;
     display: flex;
     justify-content:center;
     align-items: center;
 }
 .gallery{
-    width: 1500px;
+    width: 800px;
     display: flex;
     flex-direction: row;
     
