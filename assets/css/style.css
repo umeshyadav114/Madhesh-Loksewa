@@ -2111,20 +2111,19 @@ p {
 .border-box{
     margin-top: 20px;
 }
-
 *{
     padding-left: 0px;
     padding-top: 0px;
     margin: 0px;
 }
 .wrapper{
-    height: vh;
+    height:45vh;
     display: flex;
     justify-content:center;
     align-items: center;
 }
 .gallery{
-    width: 800px;
+    width: 1500px;
     display: flex;
     flex-direction: row;
     
@@ -2132,7 +2131,7 @@ p {
     overflow: hidden;
     margin-left: 5px;
     margin-right: 7px;
-    height:300px;
+    height:250px;
 }
 .gallery div{
   

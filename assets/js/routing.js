@@ -1,4 +1,5 @@
 const routes = {
+
     about: "pages/about/index.html",
     c1: "../courses/c1/index.html",
     c2: "../courses/c2/index.html",
